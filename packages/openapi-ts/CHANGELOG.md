@@ -1,5 +1,11 @@
 # @hey-api/openapi-ts
 
+## 0.67.6
+
+### Patch Changes
+
+- [#2060](https://github.com/hey-api/openapi-ts/pull/2060) [`373e15a`](https://github.com/hey-api/openapi-ts/commit/373e15a34fd81ac596a0797ddb133a47aeceee1f) Thanks [@mrlubos](https://github.com/mrlubos)! - fix(valibot): add valibot plugin
+
 ## 0.67.5
 
 ### Patch Changes
